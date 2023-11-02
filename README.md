@@ -42,7 +42,7 @@ Users with read access to Brightfort/MAIN-CHURCH-APP:
 ```bash
 ./list_github_users.sh <repository_owner> <repository_name>
 ```
-
+#
 ## Python Script README
 #
 ### Script Name: list_github_users.py
